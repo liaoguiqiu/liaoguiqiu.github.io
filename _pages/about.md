@@ -24,8 +24,12 @@ and
 Interested in
 ======
 -Sensor Fusion
+
 -Computer Vision
+
 -Machine Learning
+
 -SLAM
+
 -Surgical Robotics
 
