@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I received his bachelor’s degree in Measurement & control Science and Technology from the Chongqing University, Chongqing, China, where I built his first intelligent car and aerial robot. Then I did his 3 years of Master’s study related to indoor aerial robot navigation and applying UAV to bridge crack diagnosing at the Shanghai Jiao Tong University, Shanghai, China, under the supervision of Prof. Jiankang Zhao. In the last year of his Master’s study, I participated in developing an X-ray image detection system based on deep learning at Eastimage Equipment Co., Ltd, Shanghai, as a computer vision algorithm engineer intern.
+I received my bachelor’s degree in Measurement & control Science and Technology from the Chongqing University, Chongqing, China, where I built my first intelligent car and aerial robot. Then I did my 3 years of Master’s study related to indoor aerial robot navigation and applying UAV to bridge crack diagnosing at the Shanghai Jiao Tong University, Shanghai, China, under the supervision of Prof. Jiankang Zhao. In the last year of my Master’s study, I participated in developing an X-ray image detection system based on deep learning at Eastimage Equipment Co., Ltd, Shanghai, as a computer vision algorithm engineer intern.
 Currently I am a joint Ph.D. researcher in the direction of surgical robotics at ICUBE Laboratory, the University of Strasbourg and ALTAIR Robotics Laboratory, the University of Verona, under the Marie Curie Ph.D. training network of ATLAS project.
 
 Affiliations
