@@ -8,28 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-I received my bachelor’s degree in Measurement & control Science and Technology from the Chongqing University, Chongqing, China, where I built my first intelligent car and aerial robot. Then I did my 3 years of Master’s study related to indoor aerial robot navigation and applying UAV to bridge crack diagnosing at the Shanghai Jiao Tong University, Shanghai, China, under the supervision of Prof. Jiankang Zhao. In the last year of my Master’s study, I participated in developing an X-ray image detection system based on deep learning at Eastimage Equipment Co., Ltd, Shanghai, as a computer vision algorithm engineer intern.
-Currently I am a joint Ph.D. researcher in the direction of surgical robotics at ICUBE Laboratory, the University of Strasbourg and ALTAIR Robotics Laboratory, the University of Verona, under the Marie Curie Ph.D. training network of ATLAS project.
+I am a postdoc researcher focusing on advancing healthcare innovation at Penn Medicine, University of Pennsylvania. Before that, I was a joint Ph.D. researcher in the direction of surgical robotics at ICUBE Laboratory, the University of Strasbourg and ALTAIR Robotics Laboratory, the University of Verona, under the Marie Curie Ph.D. training network of ATLAS project. Before my Ph.D. I completed my master study at Shanghai Jiao Tong University, China.
 
 Affiliations
 ======
-Dual PhD with 
+Postdoc researcher with 
 
-[The ICUBE Laboratory](http://icube.unistra.fr/), [The University of Strasbourg](https://en.unistra.fr/) as the primary host; under the supervision of [ Prof. Michel de Mathelin](https://en.unistra.fr/).
+[The Pcaso Lab](https://www.med.upenn.edu/pcaso/), [Department of Surgery, Penn Medicine ](https://www.pennmedicine.org/for-patients-and-visitors/penn-medicine-locations/hospital-of-the-university-of-pennsylvania) as the primary affiliation; under the supervision of [Daniel Hashimoto](https://www.pennmedicine.org/providers/profile/daniel-hashimoto).
 
 and
 
-[ALTAIR Robotics Laboratory](https://metropolis.scienze.univr.it/), [The University of Verona](https://www.univr.it/en/university) as the secondary host; under the supervision of [Prof. Fiorini Paolo](http://profs.sci.univr.it/~fiorini/).
+[GRASP Lab](https://www.grasp.upenn.edu/), [Penn Engineering](https://www.seas.upenn.edu/) as the secondary affiliation; under the supervision of [kostas daniilidis](https://www.cis.upenn.edu/~kostas/).
 
 Interested in
 ======
--Sensor Fusion
-
 -Computer Vision
 
 -Machine Learning
 
--SLAM
+-Medical Data Science
 
 -Surgical Robotics
 
