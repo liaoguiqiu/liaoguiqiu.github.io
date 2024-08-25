@@ -1,4 +1,3 @@
-
 ---
 title: "Coordinates encoding networks: an image segmentation architecture for side-viewing catheters."
 collection: publications
