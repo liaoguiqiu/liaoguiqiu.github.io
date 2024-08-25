@@ -1,12 +1,11 @@
 ---
-title: "Analysis and correction of OCT images for the control of robotic flexible endoscopes"
+title: "Distortion and Instability Compensation with Deep Learning for Rotational Scanning Endoscopic Optical Coherence Tomography."
 collection: publications
-permalink: /publication/2023-03-01-paper-title-number-1
- 
-date: 2023-03-01
-venue: 'University of Strasbourg'
-paperurl: 'https://seafile.unistra.fr/f/a6dcc3081e5d45908b67/?dl=1'
- 
+permalink: /publication/2022-01-01-distortion-and-instability-compensation-with-deep-learning-for-rotational-scanning-endoscopic-optical-coherence-tomography-number-1
+
+date: 2022-01-01
+venue: 'Medical Image Analysis'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S1361841522000081?via%3Dihub'
+
 ---
-[Download paper here](https://seafile.unistra.fr/f/a6dcc3081e5d45908b67/?dl=1)
- 
+[Download paper here](https://www.sciencedirect.com/science/article/pii/S1361841522000081?via%3Dihub)
