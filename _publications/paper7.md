@@ -1,4 +1,3 @@
-
 ---
 title: "Autonomous OCT volumetric scanning with robotic endoscope"
 collection: publications
