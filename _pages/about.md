@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoc researcher focusing on advancing healthcare innovation at Penn Medicine, University of Pennsylvania. Before that, I was a joint Ph.D. researcher in the direction of surgical robotics at ICUBE Laboratory, the University of Strasbourg and ALTAIR Robotics Laboratory, the University of Verona, under the Marie Curie Ph.D. training network of ATLAS project ([thesis](https://raw.githubusercontent.com/liaoguiqiu/liaoguiqiu.github.io/master/files/LIAO_Guiqiu_2023_ED269_B.pdf)). Before my Ph.D. I completed my master study at Shanghai Jiao Tong University, China.
+I am a postdoc researcher focusing on advancing healthcare innovation at Penn Medicine, University of Pennsylvania. Before that, I was a joint Ph.D. researcher in the direction of surgical robotics at ICUBE Laboratory, the University of Strasbourg and ALTAIR Robotics Laboratory, the University of Verona, under the Marie Curie Ph.D. training network of ATLAS project ([thesis](https://liaoguiqiu.github.io/files/LIAO_Guiqiu_2023_ED269_B.pdf)). Before my Ph.D. I completed my master study at Shanghai Jiao Tong University, China.
 
 Affiliations
 ======
