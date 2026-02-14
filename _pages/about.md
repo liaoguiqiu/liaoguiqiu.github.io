@@ -8,26 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoc researcher focusing on advancing healthcare innovation at Penn Medicine, University of Pennsylvania. Before that, I was a joint Ph.D. researcher in the direction of surgical robotics at ICUBE Laboratory, the University of Strasbourg and ALTAIR Robotics Laboratory, the University of Verona, under the Marie Curie Ph.D. training network of ATLAS project ([Doctoral Thesis](https://theses.fr/api/v1/document/2023STRAD016)). Before my Ph.D. I completed my master study at Shanghai Jiao Tong University, China.
+I am a postdoc researcher focusing on advancing healthcare innovation at Penn Medicine, University of Pennsylvania. Before that, I was a joint Ph.D. researcher in the direction of surgical robotics at ICUBE Laboratory, the University of Strasbourg and ALTAIR Robotics Laboratory, the University of Verona, under the Marie Curie Ph.D. training network of [ATLAS project](https://atlas-itn.eu/). Before my Ph.D. I completed my master study at Shanghai Jiao Tong University, China.
 
 Affiliations
 ======
-Postdoc researcher with 
-
-[The Pcaso Lab](https://www.med.upenn.edu/pcaso/), [Department of Surgery, Penn Medicine ](https://www.pennmedicine.org/for-patients-and-visitors/penn-medicine-locations/hospital-of-the-university-of-pennsylvania) as the primary affiliation; under the supervision of [Daniel Hashimoto](https://www.pennmedicine.org/providers/profile/daniel-hashimoto).
-
-and
-
-[GRASP Lab](https://www.grasp.upenn.edu/), [Penn Engineering](https://www.seas.upenn.edu/) as the secondary affiliation; under the supervision of [Eric Eaton](https://scholar.google.com/citations?user=QIZWnnQAAAAJ&hl=en).
-
-Interested in
-======
--Computer Vision
-
--Machine Learning
-
--Medical Data Science
-
--Surgical Robotics
+[The PCASO Lab](https://www.med.upenn.edu/pcaso/), [Department of Surgery, Penn Medicine ](https://www.pennmedicine.org/for-patients-and-visitors/penn-medicine-locations/hospital-of-the-university-of-pennsylvania); [GRASP Lab](https://www.grasp.upenn.edu/), [Penn Engineering](https://www.seas.upenn.edu/) 
+ 
  
 
