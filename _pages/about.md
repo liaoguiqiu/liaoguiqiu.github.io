@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoc researcher focusing on advancing healthcare innovation at Penn Medicine, University of Pennsylvania. Before that, I was a joint Ph.D. researcher in the direction of surgical robotics at ICUBE Laboratory, the University of Strasbourg and ALTAIR Robotics Laboratory, the University of Verona, under the Marie Curie Ph.D. training network of [ATLAS project](https://atlas-itn.eu/). Before my Ph.D. I completed my master study at Shanghai Jiao Tong University, China.
+I am a postdoc researcher focusing on advancing healthcare innovation at Penn Medicine, University of Pennsylvania. Before that, I was a joint Ph.D. researcher in the direction of surgical robotics at ICUBE Laboratory, the University of Strasbourg and ALTAIR Robotics Laboratory, the University of Verona, under the Marie Curie Ph.D. training network of [ATLAS project](https://atlas-itn.eu/). Before my Ph.D. I completed my master study on reliability enhancement of flying machine at Shanghai Jiao Tong University.
 
 Affiliations
 ======
