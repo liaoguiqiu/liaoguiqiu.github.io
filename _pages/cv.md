@@ -32,8 +32,8 @@ Education
 
 Work Experience
 ======
-* Postdoctoral Researcher, Department of Surgery, PennMedicine, University of Pennsylvania, December 2023 - Present
-  * Developing data-driven AI for surgery
+* PennMedicine, University of Pennsylvania, December 2023 - Present
+  * Postdoctoral researcher, Developing data-driven AI for surgery
   * Mentors: Daniel A. Hashimoto, Eric Eaton, Kostas Daniilidis
 
 * Researcher, ICUBE Laboratory, University of Strasbourg, October 2019 - January 2023
