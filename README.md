@@ -180,10 +180,6 @@ Feel free to add your own page(s) by sending a PR.
 <a href="https://j1yoo.github.io/" target="_blank">★</a>
 <a href="https://zhoji.github.io/" target="_blank">★</a>
 <a href="https://smsnobin77.github.io/" target="_blank">★</a>
-<a href="https://dongkyu-lee.info/" target="_blank">★</a>
-<a href="https://laurajul.github.io/" target="_blank">★</a>
-<a href="https://vud.org" target="_blank">★</a>
-<a href="https://www.byeongsc.com/" target="_blank">★</a>
 </td>
 </tr>
 <tr>
@@ -200,7 +196,6 @@ Feel free to add your own page(s) by sending a PR.
 <a href="https://big-culture.github.io/" target="_blank">★</a>
 <a href="https://martinbulla.github.io/bullab/" target="_blank">★</a>
 <a href="https://gpforesteyes.github.io/" target="_blank">★</a>
-<a href="https://kenji-fukushima-lab.github.io/" target="_blank">★</a>
 </td>
 </tr>
 <tr>
@@ -227,8 +222,7 @@ Images2Symbols (CogSci: <a href="https://images2symbols.github.io/" target="_bla
 Medical Robotics Junior Faculty Forum (ISMR: <a href="https://junior-forum-ismr.github.io/" target="_blank"> 2023</a>)<br>
 Beyond Vision: Physics meets AI (ICIAP: <a href="https://physicsmeetsai.github.io/beyond-vision/" target="_blank">2023</a>) <br>
 Workshop on Diffusion Models (NeurIPS: <a href="https://diffusionworkshop.github.io/" target="_blank">2023</a>) <br>
-Workshop on Structured Probabilistic Inference & Generative Modeling (ICML: <a href="https://spigmworkshop.github.io/" target="_blank">2023</a>, <a href="https://spigmworkshop2024.github.io/" target="_blank">2024</a>) <br>
-Workshop on Foundation and Generative Models in Biometrics (<a href="https://foundgen-bio.github.io/iccv2025/" target="_blank">ICCV 2025</a>, <a href="https://foundgen-bio.github.io/cvpr2026/" target="_blank">CVPR 2026</a>)
+Workshop on Structured Probabilistic Inference & Generative Modeling (ICML: <a href="https://spigmworkshop.github.io/" target="_blank">2023</a>, <a href="https://spigmworkshop2024.github.io/" target="_blank">2024</a>)
 </td>
 </tr>
 </table>
@@ -272,7 +266,7 @@ Run the test yourself: [Google Lighthouse PageSpeed Insights](https://pagespeed.
     - [Collections](#collections)
     - [Layouts](#layouts)
       - [The iconic style of Distill](#the-iconic-style-of-distill)
-      - [Full support for math &amp; code](#full-support-for-math--code)
+      - [Full support for math \& code](#full-support-for-math--code)
       - [Photos, Audio, Video and more](#photos-audio-video-and-more)
     - [Other features](#other-features)
       - [GitHub's repositories and user stats](#githubs-repositories-and-user-stats)
@@ -292,21 +286,6 @@ Run the test yourself: [Google Lighthouse PageSpeed Insights](https://pagespeed.
 <!--te-->
 
 ## Getting started
-
-**⚠️ Important: Use "Use this template" (not fork)**
-
-When creating your own website with al-folio, you have two options:
-
-- ✅ **Recommended:** Click "[Use this template](https://github.com/new?template_name=al-folio&template_owner=alshedivat)" – This creates a clean copy that is independent from the main al-folio repository. Changes you make to your site won't be accidentally submitted to al-folio as pull requests.
-- ❌ **Not recommended:** Forking the repository – This keeps a link to the main al-folio repo, making it easy to accidentally submit your personal site changes as contributions to our project.
-
-**If you already forked:** Don't worry! You can still work with your fork normally. Just make sure to:
-
-1. Make changes on a dedicated branch (e.g., `my-site-updates`)
-2. When pushing changes, always verify you're pushing to **your own repository**, not the main al-folio repository
-3. Never create pull requests to `alshedivat/al-folio` unless you're intentionally contributing improvements that benefit all users
-
-For quick setup, see [QUICKSTART.md](QUICKSTART.md).
 
 Want to learn more about Jekyll? Check out [this tutorial](https://www.taniarascia.com/make-a-static-website-with-jekyll/). Why Jekyll? Read [Andrej Karpathy's blog post](https://karpathy.github.io/2014/07/01/switching-to-jekyll/)! Why write a blog? Read [Rachel Thomas blog post](https://medium.com/@racheltho/why-you-yes-you-should-blog-7d2544ac1045).
 

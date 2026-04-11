@@ -20,7 +20,7 @@ group :jekyll_plugins do
     gem 'jekyll-sitemap'
     gem 'jekyll-socials'
     gem 'jekyll-tabs'
-    gem 'jekyll-terser'
+    gem 'jekyll-terser', :git => "https://github.com/RobertoJBeltran/jekyll-terser.git"
     gem 'jekyll-toc'
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
@@ -31,7 +31,6 @@ end
 # Gems for development or external data fetching (outside :jekyll_plugins)
 group :other_plugins do
     gem 'css_parser'
-    gem 'faraday-retry'  # required by Faraday v2 retry middleware used during metadata fetches
     gem 'feedjira'
     gem 'httparty'
     gem 'observer'       # used by jekyll-scholar
