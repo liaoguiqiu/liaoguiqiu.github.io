@@ -20,9 +20,9 @@ cv:
         end_date: 2023-01-16
         highlights:
           - Marie Sklodowska-Curie Fellowship.
-          - ATLAS project: AuTonomous intraLuminAl Surgery.
-          - Thesis: Analysis and correction of OCT images for the control of robotic flexible endoscopes.
-          - Supervisors: Michalina J. Gora and Diego Dall'Alba. Directors: Michel de Mathelin and Paolo Fiorini.
+          - "ATLAS project: AuTonomous intraLuminAl Surgery."
+          - "Thesis: Analysis and correction of OCT images for the control of robotic flexible endoscopes."
+          - "Supervisors: Michalina J. Gora and Diego Dall'Alba. Directors: Michel de Mathelin and Paolo Fiorini."
 
       - institution: Shanghai Jiao Tong University
         location: Shanghai, China
@@ -32,8 +32,8 @@ cv:
         end_date: 2019-03
         score: 3.48/4.0
         highlights:
-          - Thesis: Research on Reliability Enhancement for Navigation and Control System of Rotor-craft.
-          - Adviser: Jiankang Zhao.
+          - "Thesis: Research on Reliability Enhancement for Navigation and Control System of Rotor-craft."
+          - "Adviser: Jiankang Zhao."
 
       - institution: Chongqing University
         location: Chongqing, China
@@ -43,8 +43,8 @@ cv:
         end_date: 2016-06
         score: 3.57/4.0
         highlights:
-          - Integrated ranking: 3/107.
-          - Dissertation: Autonomous Navigation and Precise Positioning for Quadcopter Helicopter.
+          - "Integrated ranking: 3/107."
+          - "Dissertation: Autonomous Navigation and Precise Positioning for Quadcopter Helicopter."
 
     Experience:
       - company: Penn Medicine, University of Pennsylvania
