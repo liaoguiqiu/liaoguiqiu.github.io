@@ -18,7 +18,7 @@
     - [For project pages](#for-project-pages)
     - [Enabling automatic deployment](#enabling-automatic-deployment)
     - [Manual deployment to GitHub Pages](#manual-deployment-to-github-pages)
-    - [Deploy on <a href="https://www.netlify.com/" rel="nofollow">Netlify</a>](https://www.netlify.com/)
+    - [Deploy on Netlify](#deploy-on-netlify)
     - [Deployment to another hosting server (non GitHub Pages)](#deployment-to-another-hosting-server-non-github-pages)
     - [Deployment to a separate repository (advanced users only)](#deployment-to-a-separate-repository-advanced-users-only)
   - [Maintaining Dependencies](#maintaining-dependencies)
@@ -283,3 +283,6 @@ You can still follow the steps above, but `git rebase` may result in merge confl
 See [git rebase manual](https://help.github.com/en/github/using-git/about-git-rebase) and how to [resolve conflicts](https://help.github.com/en/github/using-git/resolving-merge-conflicts-after-a-git-rebase) for more information.
 If rebasing is too complicated, we recommend re-installing the new version of the theme from scratch and port over your content and changes from the previous version manually. You can use tools like [meld](https://meldmerge.org/)
 or [winmerge](https://winmerge.org/) to help in this process.
+
+
+ bundle exec jekyll serve --host 0.0.0.0 --port 8080 --livereload

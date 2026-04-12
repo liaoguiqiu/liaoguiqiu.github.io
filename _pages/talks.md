@@ -11,8 +11,8 @@ nav_order: 3
 
 ### 2026
 
-- IPCAI 2026: Active Learning for Efficient Annotation of Surgical Videos with Weak Supervision. Co-senior author with Manasa Dendukuri, Matjaz Jogan, and Daniel A. Hashimoto.
-- Penn AI Fellowship, Cohort of 2026.
+- Penn Health Bootcamp Pitch, "OR Data Intelligence", April, 2026.
+- Penn AI Fellowship Lightning Talk, March, Cohort of 2026.
 
 ### 2025
 
