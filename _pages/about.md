@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://www.med.upenn.edu/pcaso/'>PCASO Lab</a>, <a href='https://www.med.upenn.edu/surgery/'>Department of Surgery, Penn Medicine</a>, and <a href='https://www.grasp.upenn.edu/'>GRASP Lab</a>.
 
