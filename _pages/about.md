@@ -11,20 +11,25 @@ profile:
   more_info: >
     <p>Postdoctoral Researcher</p>
     <p>University of Pennsylvania</p>
-    <p>AI for surgery, surgical robotics, and medical imaging</p>
+    <p>Department of Surgery</p>
+    <p>Philadelphia, PA</p>
 
-selected_papers: true
+selected_papers: false
 social: true
 
 announcements:
-  enabled: false
+  enabled: true
+  scrollable: true
+  limit:
 
 latest_posts:
   enabled: false
 ---
 
-I am a postdoctoral researcher working on advancing healthcare innovation at Penn Medicine, University of Pennsylvania. My research focuses on AI for surgery, surgical robotics, and medical imaging.
+I am an interdisciplinary postdoctoral researcher in surgical data science at the University of Pennsylvania. My work develops machine learning methods that bridge computer vision, medicine, and robotics, with a focus on making surgery safer, more intelligent, and more clinically useful.
 
-Before joining Penn, I was a joint PhD researcher in surgical robotics at ICUBE Laboratory, University of Strasbourg, and ALTAIR Robotics Laboratory, University of Verona, under the Marie Sklodowska-Curie doctoral training network of the [ATLAS project](https://atlas-itn.eu/). Before my PhD, I completed my master's study on reliability enhancement of flying machines at Shanghai Jiao Tong University.
+My current research centers on AI for surgery, surgical video understanding, weak and self-supervised learning, and data-driven clinical decision support. I work across engineering and medicine, collaborating with surgeons and computer scientists to translate machine learning methods into real surgical workflows.
 
-My current affiliations include the [PCASO Lab](https://www.med.upenn.edu/pcaso/), the [Department of Surgery at Penn Medicine](https://www.med.upenn.edu/surgery/), the [GRASP Lab](https://www.grasp.upenn.edu/), and [Penn Engineering](https://www.seas.upenn.edu/).
+Before joining Penn, I completed a double-degree PhD in Informatics and Computer Science at the University of Strasbourg and the University of Verona as a Marie Sklodowska-Curie Fellow in the [ATLAS project](https://atlas-itn.eu/). My doctoral research focused on OCT imaging, endoscopic robotics, and AI-enhanced medical image analysis.
+
+My affiliations include the [PCASO Lab](https://www.med.upenn.edu/pcaso/), the [Department of Surgery at Penn Medicine](https://www.med.upenn.edu/surgery/), the [GRASP Lab](https://www.grasp.upenn.edu/), and [Penn Engineering](https://www.seas.upenn.edu/).

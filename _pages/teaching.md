@@ -2,23 +2,26 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Teaching and supervision experience.
+description: Teaching, mentoring, and educational outreach.
 nav: true
-nav_order: 6
+nav_order: 4
 ---
 
-## Teaching
+## Course Instruction
 
-- Biomedical Optics course: 2 lectures per year, 2 hours per lecture, master's level.
-- Instrumentation Technique for Health: 2 lectures per year, 2 hours per lecture, master's level.
+- Biomedical Optics, master's level, Universite de Strasbourg. Designed and delivered two lectures per year on optical imaging and AI-related topics in 2021 and 2022.
+- Instrumentation Technique for Health, master's level, Universite de Strasbourg. Delivered lectures on medical imaging systems and data analysis in 2021.
+- C and C++ Programming, Chongqing University outreach program. Taught high school students in 2016.
 
-## Student Supervision
+## Mentoring
 
-- Tania Olmo Fajardo (2022, with Florent Nageotte), master's thesis on automatic scanning of robotic endoscopic optical coherence tomography.
+- Formal mentor, MICCAI Society Mentorship Program, 2024 to present.
+- Mentor, Pathway to PhD Program, Penn Engineering, 2024.
+- Supervised master's thesis: Tania Olmo Fajardo, 2022, Automatic scanning of robotic endoscopic optical coherence tomography.
+- Supervised research project: Manasa Dendukuri, 2025 to 2026, Active Learning for Efficient Annotation of Surgical Videos with Weak Supervision.
 
-## Academic Service
+## Outreach and Service
 
-- Reviewer for IEEE Transactions on Robotics, ICAR, and Journal of Navigation.
-- Co-organized the ATLAS training activity on medical device development and translation.
-- Helped organize the Spring 2024 GRASP on Robotics seminar featuring Pietro Valdastri.
-- Member of IEEE and SPIE.
+- Delivered a public-facing lecture on medical robotics and AI to elementary school students at IHU de Strasbourg in 2020.
+- Member, Penn Enrichment and Engagement Committee, 2024 to present.
+- Reviewer for IEEE Transactions on Medical Imaging, IEEE Transactions on Robotics, Medical Image Analysis, Global Surgical Education Journal, Computer Assisted Surgery Journal, MICCAI, and ICAR.
