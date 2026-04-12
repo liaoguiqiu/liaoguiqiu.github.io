@@ -1,160 +1,112 @@
 cv:
-  name: Albert Einstein
-  headline: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Guiqiu Liao
+  headline: Postdoctoral Researcher
+  location: Philadelphia, PA, USA
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
+      username: liaoguiqiu
 
   sections:
-    summary:
-      - A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time.
+    Summary:
+      - bullet: Researcher at the University of Pennsylvania working on AI for surgery, surgical robotics, and medical imaging.
+      - bullet: Former Marie Sklodowska-Curie doctoral fellow in the ATLAS project spanning the University of Strasbourg and the University of Verona.
 
-    education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        area: Physics
-        degree: PhD
-        start_date: 1900-01
-        end_date: 1905-01
+    Education:
+      - institution: University of Strasbourg and University of Verona
+        area: Informatics Science and Computer Science
+        degree: Double PhD
+        location: Strasbourg, France and Verona, Italy
+        start_date: 2019-10
+        end_date: 2023-01
         highlights:
-          - Theory of relativity.
-          - Dissertation work in theoretical physics.
+          - Marie Sklodowska-Curie Fellowship.
+          - Thesis: Analysis and correction of OCT images for the control of robotic flexible endoscopes.
+          - Supervisors: Michalina J. Gora and Diego D'Allaba.
+          - Directors: Michel de Mathelin and Paolo Fiorini.
 
-      - institution: Eidgenossische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        degree: Federal teaching diploma
-        start_date: 1896-01
-        end_date: 1900-01
+      - institution: Shanghai Jiao Tong University
+        area: Instrument Science and Technology
+        degree: Master
+        location: Shanghai, China
+        start_date: 2016-09
+        end_date: 2019-03
         highlights:
-          - Completed teacher training in physics and mathematics.
+          - GPA: 3.48/4.0.
+          - Thesis: Research on Reliability Enhancement for Navigation and Control System of Rotor-craft.
+          - Adviser: Jiankang Zhao.
 
-    experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton, NJ
-        start_date: 1933-01
-        end_date: 1955-01
-        summary: Associated with Princeton's physics community and continued to lecture on campus.
+      - institution: Chongqing University
+        area: Measurement and Control Science and Technology
+        degree: Bachelor
+        location: Chongqing, China
+        start_date: 2012-09
+        end_date: 2016-06
         highlights:
-          - Advanced research in relativity.
-          - Mentored students and collaborators in theoretical physics.
+          - CGPA: 3.57/4.0.
+          - Integrated ranking: 3/107.
+          - Dissertation: Autonomous Navigation and Precise Positioning for Quadcopter Helicopter.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933-01
-        end_date: 1933-12
+    Experience:
+      - company: Penn Medicine, University of Pennsylvania
+        position: Postdoctoral Researcher
+        location: Philadelphia, PA, USA
+        start_date: 2023-12
+        summary: Developing data-driven AI for surgery.
         highlights:
-          - Delivered guest lectures and collaborated with faculty.
+          - Mentors: Daniel A. Hashimoto, Eric Eaton, and Kostas Daniilidis.
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917-01
-        end_date: 1933-01
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911-01
-        end_date: 1917-01
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909-01
-        end_date: 1911-01
-
-    volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04
-        end_date: 2015-07
-        summary: Lead organizer for the New York City branch of the People's Climate March.
+      - company: ICUBE Laboratory, University of Strasbourg
+        position: Researcher
+        location: Strasbourg, France
+        start_date: 2019-10
+        end_date: 2023-01
+        summary: Worked on catheterized and robotized optical coherence tomography for surgical endoscopy.
         highlights:
-          - Awarded Climate Hero recognition by Greenpeace.
-          - Named among Time magazine's people of the year in 2014.
+          - Developed automatic OCT control for the colon with a robotic surgical endoscope.
+          - Led system integration, research coordination, and master student supervision.
 
-    awards:
-      - name: Nobel Prize in Physics
-        date: 1921-11-01
-        summary: Awarded by the Royal Swedish Academy of Sciences.
+      - company: ALTAIR Laboratory, University of Verona
+        position: Researcher
+        location: Verona, Italy
+        start_date: 2021-01
+        end_date: 2021-10
+        summary: Worked on catheter image segmentation and privacy-preserving learning for OCT and IVUS.
+        highlights:
+          - Developed a privacy-preserving federated learning pipeline for multi-institution imaging.
 
-      - name: Max Planck Medal
-        date: 1929-01-01
-        summary: Awarded for outstanding scientific achievement.
+      - company: Eastimage Equipment Co., Ltd.
+        position: Computer Vision Algorithm Engineer Intern
+        location: Shanghai, China
+        start_date: 2019-04
+        end_date: 2019-08
+        summary: Developed deep-learning-based visual inspection algorithms for X-ray imaging.
 
-    publications:
-      - title: Zur Elektrodynamik bewegter Korper
-        authors:
-          - Albert Einstein
-        journal: Annalen der Physik
-        date: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: Introduced the foundations of special relativity.
+    Teaching:
+      - bullet: Biomedical Optics course, 2 lectures per year, master's level.
+      - bullet: Instrumentation Technique for Health, 2 lectures per year, master's level.
+      - bullet: Supervised the 2022 master's thesis of Tania Olmo Fajardo on automatic scanning of robotic endoscopic OCT.
 
-      - title: Uber einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        journal: Annalen der Physik
-        date: 1905-03-18
-        url: https://de.wikisource.org/wiki/%C3%9Cber_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: Applied quantum theory to explain the photoelectric effect.
+    Service:
+      - bullet: Reviewer for IEEE Transactions on Robotics, ICAR, and Journal of Navigation.
+      - bullet: Co-organized the ATLAS training activity Medical Device Development and Translation for 20 PhD students from 7 universities.
+      - bullet: Helped organize the Spring 2024 GRASP on Robotics seminar featuring Pietro Valdastri.
+      - bullet: Member of IEEE and SPIE.
 
-      - title: Die Grundlage der allgemeinen Relativitatstheorie
-        authors:
-          - Albert Einstein
-        journal: Annalen der Physik
-        date: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativit%C3%A4tstheorie
-        summary: Presented the theory of general relativity.
+    Skills:
+      - label: Research areas
+        details: Machine learning, computer vision, AI for surgery, surgical robotics, medical imaging, optical coherence tomography
+      - label: Technical skills
+        details: Python, PyTorch, TensorFlow, C++, C, Matlab, ROS, Linux, LabVIEW, SolidWorks, fiber-optic catheter manufacturing
+      - label: Methods
+        details: Mapping and localization, sensor fusion, state estimation, feedback control, optimization, system identification
 
-    skills:
-      - label: Physics
-        details: Quantum mechanics, relativity, quantum information, statistical mechanics
-
-    languages:
-      - label: German
-        details: Native speaker
-
+    Languages:
+      - label: Chinese
+        details: Fluent
       - label: English
         details: Fluent
-
-    interests:
-      - label: Research interests
-        details: Quantum mechanics, quantum communication, quantum cryptography
-
-    certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        summary: Stanford University
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        summary: Stanford University
-
-      - name: Quantum Information
-        date: 2018-01-01
-        summary: Stanford University
-
-    projects:
-      - name: Quantum Computing
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-        summary: Studied computation based on superposition and entanglement.
-        highlights:
-          - Quantum teleportation.
-          - Quantum cryptography.
-
-    references:
-      - bullet: Professor John Doe - Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      - bullet: Professor Jane Smith - Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      - label: Italian
+        details: Entry-level
+      - label: French
+        details: Entry-level
