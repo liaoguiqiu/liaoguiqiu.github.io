@@ -3,4 +3,8 @@ github_users:
 
 repo_description_lines_max: 2
 
-github_repos: []
+github_repos:
+  - PCASOlab/VDST-net
+  - PCASOlab/Xslot
+  - PCASOlab/FORLA
+  - PCASOlab/slot-BERT
