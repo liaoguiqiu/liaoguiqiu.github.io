@@ -15,7 +15,7 @@ nav_order: 4
 
 ## Mentoring
 
-- Formal mentor, MICCAI Society Mentorship Program, 2024 to present.
+- Formal and current mentor, MICCAI Society Mentorship Program, 2024 to present.
 - Mentor, Pathway to PhD Program, Penn Engineering, 2024.
 - Supervised master's thesis: Tania Olmo Fajardo, 2022, Automatic scanning of robotic endoscopic optical coherence tomography.
 - Supervised research project: Manasa Dendukuri, 2025 to 2026, Active Learning for Efficient Annotation of Surgical Videos with Weak Supervision.
