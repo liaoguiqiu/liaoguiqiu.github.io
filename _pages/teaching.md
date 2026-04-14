@@ -23,5 +23,4 @@ nav_order: 4
 ## Outreach and Service
 
 - Delivered a public-facing lecture on medical robotics and AI to elementary school students at IHU de Strasbourg in 2020.
-- Member, Penn Enrichment and Engagement Committee, 2024 to present.
 - Reviewer for IEEE Transactions on Medical Imaging, IEEE Transactions on Robotics, Medical Image Analysis, Global Surgical Education Journal, Computer Assisted Surgery Journal, MICCAI, and ICAR.
