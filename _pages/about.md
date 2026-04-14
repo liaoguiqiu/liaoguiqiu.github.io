@@ -26,10 +26,10 @@ latest_posts:
   enabled: false
 ---
 
-I am an interdisciplinary postdoctoral researcher in surgical data science at the University of Pennsylvania. My work develops machine learning methods that bridge computer vision, medicine, and robotics, with a focus on making surgery safer, more intelligent, and more clinically useful.
+I am an interdisciplinary postdoctoral researcher in surgical data science at the University of Pennsylvania, under the supervision of Dr. Daniel A. Hashimoto and also work closely with Dr. Eric Eatom. My work develops machine learning methods that bridge computer vision, medicine, and robotics, with a focus on making surgery safer, more predictable, and more clinically useful.
 
 My current research centers on AI for surgery, surgical video understanding, weak and self-supervised learning, and data-driven clinical decision support. I work across engineering and medicine, collaborating with surgeons and computer scientists to translate machine learning methods into real surgical workflows.
 
-Before joining Penn, I completed a double-degree PhD in Informatics and Computer Science at the University of Strasbourg and the University of Verona as a Marie Sklodowska-Curie Fellow in the [ATLAS project](https://atlas-itn.eu/). My doctoral research focused on OCT imaging, endoscopic robotics, and AI-enhanced medical image analysis.
+Before joining Penn, I completed a double-degree PhD in Informatics and Computer Science at the University of Strasbourg and the University of Verona as a Marie Sklodowska-Curie Fellow in the [ATLAS project](https://atlas-itn.eu/), under the supervision of Michalina J. Gora and Diego Dall’Alba, with Paolo Fiorini and Michel de Mathelin as thesis directors. My doctoral research focused on OCT imaging, endoscopic robotics, and AI-enhanced medical image analysis.
 
 My affiliations include the [PCASO Lab](https://www.med.upenn.edu/pcaso/), the [Department of Surgery at Penn Medicine](https://www.med.upenn.edu/surgery/), the [GRASP Lab](https://www.grasp.upenn.edu/), and [Penn Engineering](https://www.seas.upenn.edu/).
