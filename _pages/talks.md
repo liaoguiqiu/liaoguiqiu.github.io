@@ -10,8 +10,7 @@ nav_order: 3
 ## Selected Talks and Presentations
 
 ### 2026
-
-- Penn Health Bootcamp Pitch, "OR Data Intelligence", April, 2026.
+ 
 - Penn AI Fellowship Lightning Talk, March, Cohort of 2026.
 
 ### 2025
