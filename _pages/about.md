@@ -26,7 +26,7 @@ latest_posts:
   enabled: false
 ---
 
-I am an interdisciplinary postdoctoral researcher in surgical data science at the University of Pennsylvania, under the supervision of Dr. Daniel A. Hashimoto and also work closely with Dr. Eric Eatom. My work develops machine learning methods that bridge computer vision, medicine, and robotics, with a focus on making surgery safer, more predictable, and more clinically useful.
+I am an interdisciplinary postdoctoral researcher in surgical data science at the University of Pennsylvania, under the supervision of Dr. Daniel A. Hashimoto and also work closely with Dr. Eric Eaton. My work develops machine learning methods that bridge computer vision, medicine, and robotics, with a focus on making surgery safer, more predictable, and more clinically useful.
 
 My current research centers on AI for surgery, surgical video understanding, weak and self-supervised learning, and data-driven clinical decision support. I work across engineering and medicine, collaborating with surgeons and computer scientists to translate machine learning methods into real surgical workflows.
 
