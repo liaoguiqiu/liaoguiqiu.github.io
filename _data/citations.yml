@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-13'
+  last_updated: '2026-04-29'
 papers:
   hFBgQvQAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -18,7 +18,7 @@ papers:
     title: Disentangling spatio-temporal knowledge for weakly supervised object detection and segmentation in surgical video
     year: '2025'
   hFBgQvQAAAAJ:4TOpqqG69KYC:
-    citations: 6
+    citations: 7
     title: Automatic intraluminal scanning with a steerable endoscopic optical coherence tomography catheter for gastroenterology applications
     year: '2023'
   hFBgQvQAAAAJ:7PzlFSSx8tAC:
@@ -93,6 +93,10 @@ papers:
     citations: 2
     title: Auto-tuning for cascade PID height position controller of rotorcraft
     year: '2019'
+  hFBgQvQAAAAJ:isC4tDSrTZIC:
+    citations: 0
+    title: "161. Development of a prediction model for identifying areas where tissue handling is unnecessary using deep learning architectures during robotic-assisted lobectomy for lung \u2026"
+    year: '2026'
   hFBgQvQAAAAJ:kNdYIx-mwKoC:
     citations: 0
     title: OCT image-guidance of needle injection for robotized flexible interventional endoscopy
