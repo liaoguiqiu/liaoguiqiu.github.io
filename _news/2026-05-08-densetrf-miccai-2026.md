@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper, DenseTRF: Texture-Aware Unsupervised Representation Adaptation for Surgical Scene Dense Prediction, has been early accepted to MICCAI 2026 (9%). À bientôt en France!
+Our paper, DenseTRF: Texture-Aware Unsupervised Representation Adaptation for Surgical Scene Dense Prediction, has been early accepted to MICCAI 2026 (9%). À bientôt a Strasbourg, France!
