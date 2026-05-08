@@ -458,7 +458,7 @@ ninja.data = [{
           section: "News",},{id: "news-our-work-active-learning-for-efficient-annotation-of-surgical-videos-with-weak-supervision-was-accepted-to-ipcai-2026-as-a-conference-long-abstract-congrats-to-manasa-dendukuri",
           title: 'Our work, Active Learning for Efficient Annotation of Surgical Videos with Weak Supervision,...',
           description: "",
-          section: "News",},{id: "news-our-paper-densetrf-texture-aware-unsupervised-representation-adaptation-for-surgical-scene-dense-prediction-has-been-early-accepted-to-miccai-2026-9-à-bientôt-en-france",
+          section: "News",},{id: "news-our-paper-densetrf-texture-aware-unsupervised-representation-adaptation-for-surgical-scene-dense-prediction-has-been-early-accepted-to-miccai-2026-9-à-bientôt-a-strasbourg-france",
           title: 'Our paper, DenseTRF: Texture-Aware Unsupervised Representation Adaptation for Surgical Scene Dense Prediction, has...',
           description: "",
           section: "News",},{id: "projects-project-1",
