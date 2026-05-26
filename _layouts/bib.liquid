@@ -48,7 +48,33 @@
   <!-- Entry bib key -->
   <div id="{{ entry.key }}" class="{% if site.enable_publication_thumbnails %}col-sm-8{% else %}col-sm-10{% endif %}">
     <!-- Title -->
-    <div class="title">{{ entry.title }}</div>
+    {% assign publication_url = '' %}
+    {% if entry.url %}
+      {% assign publication_url = entry.url %}
+    {% elsif entry.html %}
+      {% assign publication_url = entry.html %}
+    {% elsif entry.pdf %}
+      {% assign publication_url = entry.pdf %}
+    {% elsif entry.arxiv %}
+      {% assign publication_url = entry.arxiv | prepend: 'https://arxiv.org/abs/' %}
+    {% elsif entry.doi %}
+      {% assign publication_url = entry.doi | prepend: 'https://doi.org/' %}
+    {% endif %}
+    <div class="title">
+      {% if publication_url %}
+        {% if publication_url contains '://' %}
+          <a href="{{ publication_url }}">{{ entry.title }}</a>
+        {% elsif entry.pdf %}
+          <a href="{{ publication_url | prepend: '/assets/pdf/' | relative_url }}">{{ entry.title }}</a>
+        {% elsif entry.html %}
+          <a href="{{ publication_url | prepend: '/assets/html/' | relative_url }}">{{ entry.title }}</a>
+        {% else %}
+          {{ entry.title }}
+        {% endif %}
+      {% else %}
+        {{ entry.title }}
+      {% endif %}
+    </div>
     <!-- Author -->
     <div class="author">
       {% assign author_array_size = entry.author_array | size %}
@@ -205,6 +231,9 @@
       {% endif %}
       {% if entry.hal %}
         <a href="https://hal.science/{{ entry.hal }}" class="btn btn-sm z-depth-0" role="button">HAL</a>
+      {% endif %}
+      {% if entry.url %}
+        <a href="{{ entry.url }}" class="btn btn-sm z-depth-0" role="button">URL</a>
       {% endif %}
       {% if entry.bibtex_show %}
         <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
