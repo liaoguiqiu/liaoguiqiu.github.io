@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-29'
+  last_updated: '2026-06-15'
 papers:
   hFBgQvQAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -95,18 +95,22 @@ papers:
     year: '2019'
   hFBgQvQAAAAJ:isC4tDSrTZIC:
     citations: 0
-    title: "161. Development of a prediction model for identifying areas where tissue handling is unnecessary using deep learning architectures during robotic-assisted lobectomy for lung \u2026"
+    title: Development of a prediction model for identifying areas where tissue handling is unnecessary using deep learning architectures during robotic-assisted lobectomy for lung cancer
     year: '2026'
   hFBgQvQAAAAJ:kNdYIx-mwKoC:
     citations: 0
     title: OCT image-guidance of needle injection for robotized flexible interventional endoscopy
     year: '2021'
+  hFBgQvQAAAAJ:k_IJM867U9cC:
+    citations: 0
+    title: 'DenseTRF: Texture-Aware Unsupervised Representation Adaptation for Surgical Scene Dense Prediction'
+    year: '2026'
   hFBgQvQAAAAJ:mVmsd5A6BfQC:
     citations: 0
     title: Colon lumen exploration with robotized optical coherence tomography catheter
     year: '2022'
   hFBgQvQAAAAJ:qUcmZB5y_30C:
-    citations: 1
+    citations: 2
     title: 'FORLA: Federated Object-Centric Representation Learning with Slot Attention'
     year: '2025'
   hFBgQvQAAAAJ:qxL8FJ1GzNcC:
