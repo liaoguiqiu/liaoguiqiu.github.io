@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-13'
+  last_updated: '2026-07-22'
 papers:
   hFBgQvQAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -14,7 +14,7 @@ papers:
     title: Rotational distortion compensation with deep learning for proximal-scanning endoscopic optical coherence tomography
     year: '2021'
   hFBgQvQAAAAJ:4DMP91E08xMC:
-    citations: 3
+    citations: 4
     title: Disentangling spatio-temporal knowledge for weakly supervised object detection and segmentation in surgical video
     year: '2025'
   hFBgQvQAAAAJ:4TOpqqG69KYC:
@@ -46,7 +46,7 @@ papers:
     title: Analysis and correction of OCT images for the control of robotic flexible endoscopes
     year: '2023'
   hFBgQvQAAAAJ:MXK_kJrjxJIC:
-    citations: 28
+    citations: 29
     title: Colon phantoms with cancer lesions for endoscopic characterization with optical coherence tomography
     year: '2020'
   hFBgQvQAAAAJ:QIV2ME_5wuYC:
@@ -58,7 +58,7 @@ papers:
     title: Automatic OCT scanning of moving soft tissue using continuum endoscopic robots
     year: '2026'
   hFBgQvQAAAAJ:Wp0gIr-vW9MC:
-    citations: 3
+    citations: 4
     title: 'Slot-BERT: Self-supervised Object Discovery in Surgical Video'
     year: '2025'
   hFBgQvQAAAAJ:ZeXyd9-uunAC:
@@ -109,6 +109,10 @@ papers:
     citations: 0
     title: Colon lumen exploration with robotized optical coherence tomography catheter
     year: '2022'
+  hFBgQvQAAAAJ:maZDTaKrznsC:
+    citations: 0
+    title: Active Learning for Efficient Annotation of Surgical Videos with Weak Supervision
+    year: '2026'
   hFBgQvQAAAAJ:qUcmZB5y_30C:
     citations: 3
     title: 'FORLA: Federated Object-Centric Representation Learning with Slot Attention'
