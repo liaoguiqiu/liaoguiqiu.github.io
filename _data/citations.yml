@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-31'
+  last_updated: '2026-08-07'
 papers:
   hFBgQvQAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -46,13 +46,9 @@ papers:
     title: Analysis and correction of OCT images for the control of robotic flexible endoscopes
     year: '2023'
   hFBgQvQAAAAJ:MXK_kJrjxJIC:
-    citations: 29
+    citations: 28
     title: Colon phantoms with cancer lesions for endoscopic characterization with optical coherence tomography
     year: '2020'
-  hFBgQvQAAAAJ:QIV2ME_5wuYC:
-    citations: 1
-    title: One-Shot Boundary Detection Network for Multi-Modal Side-Viewing Imaging
-    year: '2022'
   hFBgQvQAAAAJ:TFP_iSt0sucC:
     citations: 0
     title: Automatic OCT scanning of moving soft tissue using continuum endoscopic robots
@@ -74,7 +70,7 @@ papers:
     title: Distortion and instability compensation with deep learning for rotational scanning endoscopic optical coherence tomography
     year: '2022'
   hFBgQvQAAAAJ:aqlVkmm33-oC:
-    citations: 0
+    citations: 1
     title: One-Shot Boundary Detection Network for Multi-Modal Side-Viewing Imaging
     year: '2022'
   hFBgQvQAAAAJ:bEWYMUwI8FkC:
@@ -119,5 +115,5 @@ papers:
     year: '2025'
   hFBgQvQAAAAJ:qxL8FJ1GzNcC:
     citations: 0
-    title: Privacy preserving federated learning for multimodality multi-institution image segmentation
+    title: Privacy preserving federated learning for multi-modality multi-institution image segmentation
     year: '2022'
