@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-29'
+  last_updated: '2026-08-17'
 papers:
   hFBgQvQAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -14,11 +14,11 @@ papers:
     title: Rotational distortion compensation with deep learning for proximal-scanning endoscopic optical coherence tomography
     year: '2021'
   hFBgQvQAAAAJ:4DMP91E08xMC:
-    citations: 3
+    citations: 5
     title: Disentangling spatio-temporal knowledge for weakly supervised object detection and segmentation in surgical video
     year: '2025'
   hFBgQvQAAAAJ:4TOpqqG69KYC:
-    citations: 7
+    citations: 8
     title: Automatic intraluminal scanning with a steerable endoscopic optical coherence tomography catheter for gastroenterology applications
     year: '2023'
   hFBgQvQAAAAJ:7PzlFSSx8tAC:
@@ -41,6 +41,10 @@ papers:
     citations: 0
     title: SPECIAL SECTION ON THE 2020 CONFERENCE ON NEW TECHNOLOGIES FOR COMPUTER AND ROBOT ASSISTED SURGERY (CRAS2020)
     year: Unknown Year
+  hFBgQvQAAAAJ:M3NEmzRMIkIC:
+    citations: 0
+    title: 'Slot2Text: Object-Centric Visual Tokenization for Efficient and Spatially Traceable Surgical MLLMs'
+    year: '2026'
   hFBgQvQAAAAJ:M3ejUd6NZC8C:
     citations: 0
     title: Analysis and correction of OCT images for the control of robotic flexible endoscopes
@@ -49,16 +53,12 @@ papers:
     citations: 28
     title: Colon phantoms with cancer lesions for endoscopic characterization with optical coherence tomography
     year: '2020'
-  hFBgQvQAAAAJ:QIV2ME_5wuYC:
-    citations: 1
-    title: One-Shot Boundary Detection Network for Multi-Modal Side-Viewing Imaging
-    year: '2022'
   hFBgQvQAAAAJ:TFP_iSt0sucC:
     citations: 0
     title: Automatic OCT scanning of moving soft tissue using continuum endoscopic robots
     year: '2026'
   hFBgQvQAAAAJ:Wp0gIr-vW9MC:
-    citations: 2
+    citations: 4
     title: 'Slot-BERT: Self-supervised Object Discovery in Surgical Video'
     year: '2025'
   hFBgQvQAAAAJ:ZeXyd9-uunAC:
@@ -74,7 +74,7 @@ papers:
     title: Distortion and instability compensation with deep learning for rotational scanning endoscopic optical coherence tomography
     year: '2022'
   hFBgQvQAAAAJ:aqlVkmm33-oC:
-    citations: 0
+    citations: 1
     title: One-Shot Boundary Detection Network for Multi-Modal Side-Viewing Imaging
     year: '2022'
   hFBgQvQAAAAJ:bEWYMUwI8FkC:
@@ -95,21 +95,29 @@ papers:
     year: '2019'
   hFBgQvQAAAAJ:isC4tDSrTZIC:
     citations: 0
-    title: "161. Development of a prediction model for identifying areas where tissue handling is unnecessary using deep learning architectures during robotic-assisted lobectomy for lung \u2026"
+    title: Development of a prediction model for identifying areas where tissue handling is unnecessary using deep learning architectures during robotic-assisted lobectomy for lung cancer
     year: '2026'
   hFBgQvQAAAAJ:kNdYIx-mwKoC:
     citations: 0
     title: OCT image-guidance of needle injection for robotized flexible interventional endoscopy
     year: '2021'
+  hFBgQvQAAAAJ:k_IJM867U9cC:
+    citations: 0
+    title: 'DenseTRF: Texture-Aware Unsupervised Representation Adaptation for Surgical Scene Dense Prediction'
+    year: '2026'
   hFBgQvQAAAAJ:mVmsd5A6BfQC:
     citations: 0
     title: Colon lumen exploration with robotized optical coherence tomography catheter
     year: '2022'
+  hFBgQvQAAAAJ:maZDTaKrznsC:
+    citations: 0
+    title: Active Learning for Efficient Annotation of Surgical Videos with Weak Supervision
+    year: '2026'
   hFBgQvQAAAAJ:qUcmZB5y_30C:
-    citations: 1
+    citations: 3
     title: 'FORLA: Federated Object-Centric Representation Learning with Slot Attention'
     year: '2025'
   hFBgQvQAAAAJ:qxL8FJ1GzNcC:
     citations: 0
-    title: Privacy preserving federated learning for multimodality multi-institution image segmentation
+    title: Privacy preserving federated learning for multi-modality multi-institution image segmentation
     year: '2022'
