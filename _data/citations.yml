@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-07'
+  last_updated: '2026-08-17'
 papers:
   hFBgQvQAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -41,6 +41,10 @@ papers:
     citations: 0
     title: SPECIAL SECTION ON THE 2020 CONFERENCE ON NEW TECHNOLOGIES FOR COMPUTER AND ROBOT ASSISTED SURGERY (CRAS2020)
     year: Unknown Year
+  hFBgQvQAAAAJ:M3NEmzRMIkIC:
+    citations: 0
+    title: 'Slot2Text: Object-Centric Visual Tokenization for Efficient and Spatially Traceable Surgical MLLMs'
+    year: '2026'
   hFBgQvQAAAAJ:M3ejUd6NZC8C:
     citations: 0
     title: Analysis and correction of OCT images for the control of robotic flexible endoscopes
